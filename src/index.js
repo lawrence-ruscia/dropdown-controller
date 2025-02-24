@@ -54,9 +54,3 @@ export default class DropdownController {
     this.arrowIcon.classList.remove('arrow--active');
   }
 }
-
-const dropdown = new DropdownController({
-  dropdownBtn: '.dropdown-btn',
-  dropdownMenu: '.dropdown-menu',
-  arrowIcon: '.arrow',
-});
