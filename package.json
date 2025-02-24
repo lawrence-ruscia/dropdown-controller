@@ -1,5 +1,5 @@
 {
-  "name": "template-repo",
+  "name": "@lawrence-ruscia/dropdown-controller",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,10 +10,16 @@
     "lint": "eslint",
     "fix": "eslint --fix"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "dropdown",
+    "controller",
+    "UI",
+    "component",
+    "javascript"
+  ],
+  "author": "lawrence-ruscia",
   "license": "ISC",
-  "description": "",
+  "description": "A reusable dropdown controller for managing dropdowns in JavaScript.",
   "devDependencies": {
     "@eslint/js": "^9.20.0",
     "css-loader": "^7.1.2",
